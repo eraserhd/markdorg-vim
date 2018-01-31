@@ -5,4 +5,4 @@ for Vim.
 
 ## Contributors (and Thank Yous)
 
-- Drew Neil (@nelstrom) - Stole code from vim-markdown-folding
+- Drew Neil (@nelstrom) - I stole code from vim-markdown-folding
